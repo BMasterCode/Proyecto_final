@@ -4,4 +4,4 @@ Este proyecto forma parte del curso de HTML y CSS, impartido en los laboratorios
 
 ---
 
-**Nombre del Estudiante:** Pepito Pérez
+**Nombre del Estudiante:** Bismark mejia heredia
